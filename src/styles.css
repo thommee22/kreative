@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar-fixed-top {
+    background-color: #5472d3;
+    border-color: #E7E7E7;
+    min-height:80px;
+}
